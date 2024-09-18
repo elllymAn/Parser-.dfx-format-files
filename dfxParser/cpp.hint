@@ -1,0 +1,2 @@
+#define DFXPARSER_API __declspec(dllexport)
+#define DFXPARSER_API __declspec(dllimport)
